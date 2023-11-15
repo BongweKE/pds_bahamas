@@ -1,0 +1,44 @@
+Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+"Bahamas, The",BHS,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,4.638997,4.763419,4.732265,4.777181,4.725657,4.71359,4.651163,4.657614,4.690743,4.728534,4.828164
+"Bahamas, The",BHS,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,..,62.1,64.05,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,19.76583,20.49733,20.74714,21.27518,21.39583,21.65082,21.6743,21.73675,21.9033,21.95968,21.81395
+"Bahamas, The",BHS,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,7.789497,8.031359,7.595214,7.710584,7.613492,7.642735,7.495639,7.452057,7.582135,7.573655,8.091706
+"Bahamas, The",BHS,"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD,2147000000,2142000000,2311000000,2285000000,2316000000,2537000000,3074000000,2930000000,3728000000,4125000000,1002000000
+"Bahamas, The",BHS,"International tourism, receipts (current US$)",ST.INT.RCPT.CD,2159000000,2157000000,2333000000,2305000000,2336000000,2554000000,3091000000,2951000000,3756000000,4150000000,1007000000
+"Bahamas, The",BHS,"International tourism, number of departures",ST.INT.DPRT,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,228000000,246000000,286000000,262000000,212000000,238000000,329000000,371000000,332000000,335000000,110000000
+"Bahamas, The",BHS,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,369000000,347000000,384000000,362000000,328000000,347000000,440000000,554000000,519000000,514000000,166000000
+"Bahamas, The",BHS,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,12000000,15000000,22000000,20000000,20000000,17000000,17000000,21000000,28000000,25000000,5000000
+"Bahamas, The",BHS,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,67.5530223954383,64.830318588268,63.4761774966965,63.5659709984739,65.6410997354632,74.7650126305566,79.6401910996496,78.4280042032136,79.0423234348996,80.3665977076924,61.0174111334939
+"Bahamas, The",BHS,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,141000000,101000000,98000000,100000000,116000000,109000000,111000000,183000000,187000000,179000000,56000000
+"Bahamas, The",BHS,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,9.78106063276836,8.14922618752661,7.79992224452512,7.55077163880112,6.46679718493207,8.19963855548934,9.84966144163229,11.2568075863374,10.1440426851153,10.6206782368945,4.86689191542631
+"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,5255000,5588000,5940000,6151000,6320000,6112000,6265000,6136000,6622000,7250000,1794500
+"Bahamas, The",BHS,Income share held by highest 10%,SI.DST.10TH.10,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by lowest 10%,SI.DST.FRST.10,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by second 20%,SI.DST.02ND.20,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by third 20%,SI.DST.03RD.20,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by lowest 20%,SI.DST.FRST.20,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by highest 20%,SI.DST.05TH.20,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Income share held by fourth 20%,SI.DST.04TH.20,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,"Listed domestic companies, total",CM.MKT.LDOM.NO,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,-4.23396724736487,-2.37011268342559,4.70351766770429,-4.66800694605277,1.37068625521222,2.33694841770054,0.412627967075025,2.97205036695468,-0.749286420924321,1.2715226254363,-25.5970613351509
+"Bahamas, The",BHS,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,-2.87705823380178,-1.14657431765762,5.84238831496432,-3.77247842293573,2.2856904270115,3.27476513766764,1.25106830938483,3.76363097112515,-0.0314337834895895,1.93951665010883,-25.2450535226436
+"Bahamas, The",BHS,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356,3.8356
+"Bahamas, The",BHS,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,1.058342,1.099217,1.006317,1.001861,0.9648044,0.9573865,0.9180114,0.9237661,0.9365463,0.9666401,1.035696
+"Bahamas, The",BHS,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.2761952,0.3126855,0.3091271,0.3070819,0.3018724,0.2956865,0.2896259,0.2838005,0.2737109,0.2705131,0.2971928
+"Bahamas, The",BHS,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.2918956,0.3015166,0.31068,0.3046547,0.2984124,0.2909896,0.285739,0.2780065,0.2677671,0.2621015,0.2738686
+"Bahamas, The",BHS,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,70.77422,73.3433,73.49995,74.60718,74.96665,75.50634,75.73526,75.59772,75.4891,75.57484,75.83969
+"Bahamas, The",BHS,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,95.11488,94.7041,94.83931,95.10305,95.15115,95.29812,95.3816,95.408,95.43197,95.48869,95.25666
+"Bahamas, The",BHS,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,23.86868,21.12482,20.94939,19.91178,19.64177,19.17227,19.04385,19.25829,19.40408,19.4007,19.27368
+"Bahamas, The",BHS,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,82.2516,83.36709,83.66185,84.32499,84.4645,84.80502,84.89702,84.89369,85.04999,85.12869,85.16857
+"Bahamas, The",BHS,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,3.965143,3.690829,3.560725,3.361384,3.28372,3.13604,3.109464,3.120162,3.113842,3.099745,3.239843
+"Bahamas, The",BHS,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,14.4826,12.94327,12.66982,12.06466,11.94446,11.63805,11.6131,11.68548,11.59431,11.58016,11.5693
+"Bahamas, The",BHS,GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD,73353.9127370734,72538.4173412497,72966.2408985566,71655.7803388281,69830.5352763765,68045.4534937365,67485.7437176693,65838.8723984963,65996.8080483287,64696.5350567381,53047.7056718622
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,
+Last Updated: 10/26/2023,,,,,,,,,,,,,,
